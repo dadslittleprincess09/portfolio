@@ -44,7 +44,7 @@ const Projects = () => {
               />
               <div className="card-body">
                 <h5>Smart Finance Advisor</h5>
-                <p>
+                <p className="mt-4">
                   Finance management app to track income, visualize expenses, 
                   and analyze financial health using AI insights. Built with 
                   React.js, JavaScript, HTML, and CSS.
