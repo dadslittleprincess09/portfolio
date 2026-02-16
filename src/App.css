@@ -1,0 +1,75 @@
+body {
+  padding-top: 60px;  
+}
+
+/* Navbar */
+.custom-nav {
+  background: linear-gradient(to right, #3284a8, #203a43, #285265);
+}
+
+/* Hero Section */
+.hero-section {
+  padding: 100px 0;
+  background: linear-gradient(to right, #408cad, #235566, #2c5364);
+}
+
+/* Contact Section */
+.contact-section {
+  background: linear-gradient(to right, #408cad, #235566, #2c5364);
+}
+
+/* Footer */
+.footer-section {
+  background: linear-gradient(to right, #3284a8, #203a43, #285265);
+}
+/* projects */
+.project-card {
+  border: none;
+  overflow: hidden;
+  transition: all 0.4s ease;
+  cursor: pointer;
+}
+
+.project-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
+}
+
+.project-img {
+  transition: transform 0.5s ease;
+}
+
+.project-card .btn {
+  transition: all 0.3s ease;
+}
+
+.project-card .btn:hover {
+  background-color: #9b7909;
+ color: white;
+}
+.project-img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+
+
+/* Skills Card Styling */
+.skill-card {
+  border-radius: 15px;
+  transition: all 0.4s ease;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+  background-color: #ffffff;
+}
+
+/* Hover Effect */
+.skill-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15);
+}
+.section-title {
+  font-weight: 800;
+  background: linear-gradient(90deg,#3284a8, #648c99);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
