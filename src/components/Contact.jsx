@@ -8,7 +8,7 @@ const Contact = () => {
       className="py-4 contact-section text-white text-center"
     >
       <div className="container ">
-        <h2 className="fw-bold mb-4">Contact Me</h2>
+        <h3 className="fw-bold mb-4">Contact Me</h3>
         <p>
           <FaEnvelope className="me-2 text-info" />
           <a

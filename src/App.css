@@ -1,5 +1,5 @@
 body {
-  padding-top: 60px;  
+  padding-top: 50px;  
 }
 
 /* Navbar */
@@ -69,6 +69,7 @@ body {
 }
 .section-title {
   font-weight: 800;
+   font-size: 28px;
   background: linear-gradient(90deg,#3284a8, #648c99);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;

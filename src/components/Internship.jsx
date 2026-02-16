@@ -2,12 +2,12 @@ import React from "react";
 
 const Internship = () => {
   return (
-    <section id="internship" className="py-5 ">
+    <section id="internship" className="py-5 bg-light">
       <div className="container-fluid px-5">
         <h2 className="fw-bold text-center mb-5 section-title">INTERNSHIP</h2>
 
         <div className="card shadow-lg border-0 p-4 internship-card">
-          <h5 className="fw-bold fs-2">
+          <h5 className="fw-bold fs-3">
             Java Full Stack Intern
           </h5>
 
